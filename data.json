@@ -1,0 +1,94 @@
+{
+  "people":[
+    {
+      "id":1,
+      "avatar": "https://i.picsum.photos/id/1/120/120.jpg?hmac=eyb8c3EAsqSMSRV1zhcePRYtQHNH5Qlc5aoNcDP9S3Q",
+      "name": "Amaury Soares",
+      "current_position":"Tech Lead",
+      "city":"Marília",
+      "age":30,
+      "coutry":"Brasil"
+    },
+    {
+      "id":2,
+      "avatar": "https://i.picsum.photos/id/2/120/120.jpg?hmac=P5-tDjzqWTpH9TAcyxmLJavQGu2olAZAx2BMEBdVtAM",
+      "name": "Luciana Souze",
+      "current_position":"Estagiária",
+      "city":"Marília",
+      "age": 25,
+      "coutry":"Brasil"
+    },
+    {
+      "id":3,
+      "avatar": "https://i.picsum.photos/id/3/120/120.jpg?hmac=jlALddCLZKQAg9L_3CkR290ChhScVDjxTHqOM3i-PX0",
+      "name": "Mariana Osaka",
+      "current_position":"Desenvolvedor Frontend",
+      "city":"São Paulo",
+      "age": 22,
+      "coutry":"Brasil"
+    },
+    {
+      "id":4,
+      "avatar": "https://i.picsum.photos/id/4/120/120.jpg?hmac=PwLelSmQ8WBERKkoS5WhiSIHtmY8bVHONkjPyEv26JQ",
+      "name": "Jackson Jacques",
+      "current_position":"Gerente de projetos",
+      "city":"Porto Alegre",
+      "age": 32,
+      "coutry":"Brasil"
+    },
+    {
+      "id":5,
+      "avatar": "https://i.picsum.photos/id/5/120/120.jpg?hmac=dNvJW_NB5x9UWvPpAx3uqD_IyaMw-bWBJPJQqSBoQng",
+      "name": "Giovanna Salustio Martins",
+      "current_position":"Programador Full-stack",
+      "city":"Rio de Janeiro",
+      "age": 27,
+      "coutry":"Brasil"
+    },
+    {
+      "id":6,
+      "avatar": "https://i.picsum.photos/id/6/120/120.jpg?hmac=bqonmWxMkpO5qhRzg9jnqWYm114yzzE9vbsAbFnLWZQ",
+      "name": "Guilherme Bergamo",
+      "current_position":"Designer",
+      "city":"Osasco",
+      "age": 23,
+      "coutry":"Brasil"
+    },
+    {
+      "id":7,
+      "avatar": "https://i.picsum.photos/id/7/120/120.jpg?hmac=2VA-Ztx7laZ_cLiFfZjp2HL17gliqY_Jo6G89Iryt1Q",
+      "name": "Julia Roberts",
+      "current_position":"Desenvolvedor UX",
+      "city":"Curitiba",
+      "age": 28,
+      "coutry":"Brasil"
+    },
+    {
+      "id":8,
+      "avatar": "https://i.picsum.photos/id/8/120/120.jpg?hmac=v4dUUYXzC49kJN534Hzn4DTC-DLWB3w_ObIsIhuOCNw",
+      "name": "Raquel Beatriz",
+      "current_position":"DevOps",
+      "city":"Campinas",
+      "age": 26,
+      "coutry":"Brasil"
+    },
+    {
+      "id":1,
+      "avatar": "https://i.picsum.photos/id/9/120/120.jpg?hmac=kjhCICLToxjWXJt1DjTeh0rmLIGJpar96-c8KgIOJgg",
+      "name": "Mauro Henrique",
+      "current_position":"Programador Júnior",
+      "city":"Fortaleza",
+      "age": 24,
+      "coutry":"Brasil"
+    },
+    {
+      "id":1,
+      "avatar": "https://i.picsum.photos/id/10/120/120.jpg?hmac=SKjEikG7TVTnlgMlyQX9FBICDhIPBt8rFOYhduTcWss",
+      "name": "Danilo Vaidello",
+      "current_position":"Infra",
+      "city":"Londrinas",
+      "age": 35,
+      "coutry":"Brasil"
+    }
+  ]
+}

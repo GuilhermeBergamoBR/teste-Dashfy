@@ -9,6 +9,7 @@
   "description": "Dashfy full-stack recruitment test.",
   "scripts": {
     "start": "react-scripts start",
+    "generate": "plop",
     "build": "react-scripts build",
     "test": "react-scripts test -u",
     "lint:scss": "stylelint 'src/**/*.scss' --syntax scss",
@@ -21,6 +22,7 @@
   "devDependencies": {
     "@skyscanner/backpack-react-scripts": "^8.0.2",
     "eslint-config-skyscanner": "^7.0.0",
+    "plop": "^2.7.4",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-test-renderer": "^16.11.0",
@@ -32,5 +34,10 @@
     "not dead",
     "not ie <= 10",
     "not op_mini all"
-  ]
+  ],
+  "dependencies": {
+    "axios": "^0.21.1",
+    "react-router-dom": "^5.2.0",
+    "styled-components": "^5.2.1"
+  }
 }
